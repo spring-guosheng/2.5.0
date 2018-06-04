@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1175px;
+  width:1193px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1160,7 +1160,7 @@
   left:0px;
   top:0px;
   width:375px;
-  height:265px;
+  height:225px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -1176,9 +1176,9 @@
   border-width:0px;
   position:absolute;
   left:1px;
-  top:383px;
+  top:423px;
   width:375px;
-  height:265px;
+  height:225px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -1224,8 +1224,8 @@
 #u2178 {
   border-width:0px;
   position:absolute;
-  left:1px;
-  top:383px;
+  left:3px;
+  top:423px;
   width:375px;
   height:45px;
   font-family:'微软雅黑';
@@ -1270,8 +1270,8 @@
 #u2179 {
   border-width:0px;
   position:absolute;
-  left:1px;
-  top:383px;
+  left:3px;
+  top:423px;
   width:100px;
   height:45px;
   font-family:'微软雅黑';
@@ -1322,7 +1322,7 @@
   left:0px;
   top:0px;
   width:375px;
-  height:220px;
+  height:176px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1344,10 +1344,10 @@
 #u2180 {
   border-width:0px;
   position:absolute;
-  left:1px;
-  top:428px;
+  left:3px;
+  top:468px;
   width:375px;
-  height:220px;
+  height:176px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -1390,8 +1390,8 @@
 #u2181 {
   border-width:0px;
   position:absolute;
-  left:276px;
-  top:383px;
+  left:278px;
+  top:423px;
   width:100px;
   height:45px;
   font-family:'微软雅黑';
@@ -1468,8 +1468,8 @@
 #u2182 {
   border-width:0px;
   position:absolute;
-  left:1px;
-  top:537px;
+  left:3px;
+  top:541px;
   width:375px;
   height:35px;
   font-family:'微软雅黑';
@@ -1890,16 +1890,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:665px;
-  height:246px;
+  width:669px;
+  height:285px;
 }
 #u2189 {
   border-width:0px;
   position:absolute;
-  left:510px;
-  top:377px;
-  width:665px;
-  height:246px;
+  left:524px;
+  top:387px;
+  width:669px;
+  height:285px;
 }
 #u2189_text {
   border-width:0px;
